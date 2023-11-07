@@ -1,7 +1,7 @@
 
 # AluraBooks
 
-Projeto inicial básico do curso de HTML e CSS da Alura
+Projeto feito durante o curso de Responsividade com mobile-first da Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
