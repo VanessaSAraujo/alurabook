@@ -14,9 +14,7 @@ Projeto feito durante o curso de Responsividade com mobile-first da Alura
 ![image](https://github.com/VanessaSAraujo/alurabook/blob/fe2008d64bc234341c46de4794bd58e7a3427a78/img/screenshot.png#vitrinedev)
 
 ## Desafio:
-* Este projeto parece ser um site promocional para um serviço chamado "Combo+" oferecido pela Alura. O "Combo+" combina dois produtos, Alura+ e Alura Língua, por um preço único. A página apresenta informações sobre os benefícios do Combo+, incluindo a capacidade de assistir a cursos em vários dispositivos, baixar cursos para visualização offline e a disponibilidade do serviço em diferentes dispositivos, como TV, computadores, celulares e tablets.
-
-* A página utiliza imagens ilustrativas, botões de chamada para ação e uma paleta de cores consistente para fornecer uma experiência de usuário atraente. Os links no rodapé levam a várias páginas de informações adicionais, como idioma, dispositivos compatíveis, contrato de assinatura e política de privacidade. Além disso, informações de direitos autorais e informações de contato da Alura são fornecidas no rodapé.
+* O projeto é uma página da web chamada "AluraBooks" que aparentemente se destina a promover e vender livros. A página possui um layout responsivo e interativo, com elementos como um menu de navegação, carrosséis de imagens de livros, seção de tópicos recentemente visitados, um campo de inscrição para receber novidades e um rodapé que destaca várias marcas associadas ao grupo "Alura". O projeto utiliza tecnologias da web, como HTML, CSS, JavaScript e a biblioteca Swiper para criar uma experiência de usuário atraente e informativa.
 
 ## Feito por:
 
